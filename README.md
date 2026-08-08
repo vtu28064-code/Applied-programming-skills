@@ -9,6 +9,7 @@
 | [0704-binary-search](https://github.com/vtu28064-code/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28064-code/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28064-code/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28064-code/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28064-code/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28064-code/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28064-code/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28064-code/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
